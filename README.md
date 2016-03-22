@@ -31,3 +31,7 @@ Use a MySQL Client Query window to complete the following tasks:
 9. Select the post with id = 2
 10. Select all posts that have more than 1 view
 11. (Black Diamond) Select all posts that were made in the last two days
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
